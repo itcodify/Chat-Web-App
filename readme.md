@@ -1,6 +1,5 @@
 # Chat Web App
-Programming languages used : Python, HTML, Javasript.
-Module : Flask
+Languages : Python, HTML, Javasript.
 
 # Running Chat Web App
 Firstly, run the server.py file in server folder of Chat App folder. Then run the main.py file in the website folder. Lastly, open your browser and type "your-ip-address:5000" and click enter.
