@@ -1,0 +1,102 @@
+{
+    "translation": [
+        {
+            "lang_id": "en",
+            "name": "How are you?"
+        },
+        {
+            "lang_id": "hi",
+            "name": "\u0924\u0941\u092e\u094d\u0939\u093e\u0930\u093e \u0915\u094d\u092f\u093e \u0939\u093e\u0932 \u0939\u0948?"
+        },
+        {
+            "lang_id": "bg",
+            "name": "\u041a\u0430\u043a \u0441\u0442\u0435?"
+        },
+        {
+            "lang_id": "hr",
+            "name": "Kako ste"
+        },
+        {
+            "lang_id": "cs",
+            "name": "Jak se m\u00e1\u0161?"
+        },
+        {
+            "lang_id": "da",
+            "name": "lyd"
+        },
+        {
+            "lang_id": "nl",
+            "name": "Hoe gaat het?"
+        },
+        {
+            "lang_id": "et",
+            "name": "Kuidas sul l\u00e4heb?"
+        },
+        {
+            "lang_id": "fi",
+            "name": "Kuinka voit?"
+        },
+        {
+            "lang_id": "fr",
+            "name": "Comment \u00e7a va ?"
+        },
+        {
+            "lang_id": "de",
+            "name": "Wie geht es Ihnen?"
+        },
+        {
+            "lang_id": "el",
+            "name": "\u03a0\u03ce\u03c2 \u03b5\u03af\u03c3\u03b1\u03b9;"
+        },
+        {
+            "lang_id": "hu",
+            "name": "Hogy van?"
+        },
+        {
+            "lang_id": "ga",
+            "name": "ce he bhfuil tu"
+        },
+        {
+            "lang_id": "it",
+            "name": "Come stai?"
+        },
+        {
+            "lang_id": "lv",
+            "name": "K\u0101 tev iet?"
+        },
+        {
+            "lang_id": "lt",
+            "name": "Kaip sekasi?"
+        },
+        {
+            "lang_id": "mt",
+            "name": "Kif inti"
+        },
+        {
+            "lang_id": "pl",
+            "name": "Co s\u0142ycha\u0107?"
+        },
+        {
+            "lang_id": "ro",
+            "name": "Ce faci ?"
+        },
+        {
+            "lang_id": "sk",
+            "name": "Ako sa m\u00e1\u0161?"
+        },
+        {
+            "lang_id": "sl",
+            "name": "Kako ste"
+        },
+        {
+            "lang_id": "es",
+            "name": "\u00bfC\u00f3mo est\u00e1s?"
+        },
+        {
+            "lang_id": "sv",
+            "name": "Hur m\u00e5r du?"
+        }
+    ],
+    "sentence_eng": "How are you?",
+    "id": 0
+}
